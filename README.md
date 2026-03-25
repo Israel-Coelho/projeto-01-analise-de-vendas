@@ -31,7 +31,7 @@ A base contém informações de pedidos realizados entre janeiro e abril de 2025
 
 ## Principais insights
 - O faturamento total do período foi de R$ 24.130.
-https://github.com/Israel-Coelho/projeto-01-analise-de-vendas/blob/0538d94b3bb342f30c55148c449e18d02d30648d/Imagem/faturamento_categ.png
+![Faturamento por categoria](https://github.com/Israel-Coelho/projeto-01-analise-de-vendas/blob/0538d94b3bb342f30c55148c449e18d02d30648d/Imagem/faturamento_categ.png)
 - O Mouse Gamer foi o produto com maior volume de vendas.
 - O Notebook foi o produto com maior faturamento.
 - A categoria Computadores teve o melhor desempenho.
